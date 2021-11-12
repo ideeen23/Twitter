@@ -7,6 +7,7 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE Twitter clone DEMO](https://twitter-clone-fumi.herokuapp.com/) here!!
 
+![Screenshot 2021-11-11 at 6 15 35 PM](https://user-images.githubusercontent.com/68505646/141464723-2753ea62-0233-496f-807c-fec7f0b8abd0.png)
 
 
 
